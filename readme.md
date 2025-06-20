@@ -59,13 +59,13 @@ crtsh_output/
 ## 🧪 Usage
 
 ```bash
-python3 recon_combined.py <domain>
+python crtsh_lookup.py <domain>
 ```
 
 **Example:**
 
 ```bash
-python3 recon_combined.py capital.com
+python crtsh_lookup.py example.com
 ```
 
 ---
