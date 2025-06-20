@@ -107,7 +107,7 @@ This toolkit helps bug bounty hunters:
 
 ## 👨‍💻 Author
 
-Made with ❤️ by a bug bounty hunter for bug bounty hunters.  
+Made with ❤️ by Yogesh for bug bounty hunters.  
 If this helps you — ⭐ the repo and share the knowledge.
 
 ---
